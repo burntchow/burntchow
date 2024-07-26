@@ -30,7 +30,7 @@ I am an aspiring programmer 💻 from the U.S.
 - 🌱 Exploring other routes of computer science and its applications in disciplines like data science and cyber security etc. 
 - 🎮 In my free time I like to draw out game ideas in Unity (all of which totally work out 😅)
 - 📰 Enjoy following the development of new/emerging technologies with Huggingface and through Medium
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/aveline-villaganas/))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aveline-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/aveline-villaganas/))
 
 ---
 
