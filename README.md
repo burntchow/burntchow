@@ -56,8 +56,9 @@ I am an aspiring programmer 💻 from the U.S.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+---
  
-### What am I working on?
+### 🤔 What am I working on?
 - Right now I'm learning more about Reinforcement Learning through Huggingface's online course! 🤗
 - I'm also working on a series of mini projects (available in my pins)
 
