@@ -24,8 +24,6 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an aspiring programmer 💻 from the U.S.
-- 🦜 Thrown into the world of LLMs when I interned at Epson and later pursued a machine learning class at CSULB
 - 🌱 Exploring other routes of computer science and its applications in disciplines like data science and cyber security etc. 
 - 🎮 In my free time I like to draw out game ideas in Unity (all of which totally work out 😅)
 - 📰 Enjoy following the development of new/emerging technologies with Huggingface and through Medium
